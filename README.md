@@ -13,4 +13,6 @@
   If you like the software, please consider a donation.
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZW27X43WRQ44&source=url
 
+![NCM Moscow 29 Plus](https://github.com/maganzi/NCM-Moscow-Plus-C7-Display-Das-Kit-Speed-Unlock-Module/blob/master/NCMMoscow29plus.jpg?raw=true)
+
 Ich übernehme keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen mich, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen.
