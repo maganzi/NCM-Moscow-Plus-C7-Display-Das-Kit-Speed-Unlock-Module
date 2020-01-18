@@ -9,7 +9,14 @@
 ![wiring schema](https://github.com/maganzi/NCM-Moscow-Plus-C7-Display-Das-Kit-Speed-Unlock-Module/blob/master/Wiring-Schema.png)
   
 ![calbe schema](https://github.com/maganzi/NCM-Moscow-Plus-C7-Display-Das-Kit-Speed-Unlock-Module/blob/master/Cable-Schema.png.png)
-  
+
+Upload Code with Arduino IDE:
+
+![calbe schema](https://github.com/maganzi/NCM-Moscow-Plus-C7-Display-Das-Kit-Speed-Unlock-Module/blob/master/ESP8266Installed.png)
+
+![calbe schema](https://github.com/maganzi/NCM-Moscow-Plus-C7-Display-Das-Kit-Speed-Unlock-Module/blob/master/ESP8266Settings.png)
+
+
   If you like the software, please consider a donation.
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZW27X43WRQ44&source=url
 
